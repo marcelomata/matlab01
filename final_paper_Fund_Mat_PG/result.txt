@@ -1,0 +1,45 @@
+soma das médias das difeças de ângulo e das distâncias:
+
+186.9312 -> movimento data11 com data12 - rHand1 com rHand2
+58.2142  -> movimento data11 com data11 - rHand1 com rHand1
+474.7538 -> movimento data11 com data12 - rHand1 com head
+
+
+Aparentemente quanto mais distante for o movimento maior está sendo o número da soma
+e quanto mais próximo o movimento menor é o valor da soma.
+
+
+------------------------------------------------------------------------------------
+
+soma das médias das distâncias (100 coeficientes):
+
+170.5796    -> movimento data11 com data12 - rHand1 com rHand2 (espaço)
+1.2731e+03  -> movimento data11 com data12 - rHand1 com rHand2 (coeficientes)
+
+51.3930    -> movimento data11 com data11 - rHand1 com rHand1 (espaço)
+330.8420   -> movimento data11 com data11 - rHand1 com rHand1 (coeficientes)
+
+602.1491    -> movimento data11 com data12 - rHand1 com head (espaço)
+1.5637e+03  -> movimento data11 com data12 - rHand1 com head (coeficientes)
+
+------------------------------------------------------------------------------------
+
+soma das médias das distâncias (200 coeficientes):
+
+170.5796    -> movimento data11 com data12 - rHand1 com rHand2 (espaço)
+1.5176e+03  -> movimento data11 com data12 - rHand1 com rHand2 (coeficientes)
+
+51.3930    -> movimento data11 com data11 - rHand1 com rHand1 (espaço)
+402.4466   -> movimento data11 com data11 - rHand1 com rHand1 (coeficientes)
+
+602.1491    -> movimento data11 com data12 - rHand1 com head (espaço)
+1.7037e+03  -> movimento data11 com data12 - rHand1 com head (coeficientes)
+
+------------------------------------------------------------------------------------
+
+
+
+
+
+
+

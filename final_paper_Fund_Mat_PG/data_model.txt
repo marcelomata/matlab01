@@ -1,0 +1,17 @@
+myfile << "head="<<headValuesX[i]<<","<<headValuesY[i]<<","<<headValuesZ[i]<<"\n";
+myfile << "neck="<<neckValuesX[i]<<","<<neckValuesY[i]<<","<<neckValuesZ[i]<<"\n";
+myfile << "rHand="<<rHandValuesX[i]<<","<<rHandValuesY[i]<<","<<rHandValuesZ[i]<<"\n";
+myfile << "lHand="<<lHandValuesX[i]<<","<<lHandValuesY[i]<<","<<lHandValuesZ[i]<<"\n";
+
+"head=X,Y,Z";
+"neck=X,Y,Z";
+"rHand=X,Y,Z";
+"lHand=X,Y,Z";
+
+"torso=X,Y,Z";
+"rHip=X,Y,Z";
+"lHip=X,Y,Z";
+"head=X,Y,Z";
+"neck=X,Y,Z";
+"rHand=X,Y,Z";
+"lHand=X,Y,Z";

@@ -1,0 +1,6 @@
+C:\Users\MarceloSimara\Google Drive\Mestrado_UFRGS_workspaces\workspace\matlab\Image Completion using Planar Structure Guidance\source\EdgeDetectTest.exe C:\Users\MarceloSimara\Desktop\test C:\Users\MarceloSimara\Desktop\test 1 0 0 0
+
+
+C:\Users\MarceloSimara\Desktop\test\vpdetection.exe C:\Users\MarceloSimara\Desktop\test C:\Users\MarceloSimara\Desktop\test\2 1 1 1 1
+
+C:\Users\MarceloSimara\Desktop\test\vpdetection.exe C:\Users\MarceloSimara\Desktop\test C:\Users\MarceloSimara\Desktop\test\2 1 1 1 1
